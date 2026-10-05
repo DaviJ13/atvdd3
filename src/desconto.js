@@ -1,5 +1,5 @@
 const calcularDesconto = (preco, categoria) => {
-  const desconto = 0.35;
+  const desconto = 0.55;
 
   return preco * (1 - desconto);
 };
